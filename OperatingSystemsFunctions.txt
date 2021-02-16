@@ -1,0 +1,3 @@
+In windows 10 Cortona is a voice activated personnel associate who can assist you in finding applications, answering your questions, and searching up information via your voice.
+Similar to siri on mac releated devices Cortona has the same feautures, but is more easier to use and quite frankly works much better. She can be called upon by pressing her icon 
+on the tool bar or using the short cut by pressing the windows key + c simultaneously.
